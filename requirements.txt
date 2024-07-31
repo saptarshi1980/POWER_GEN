@@ -1,0 +1,23 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
+python-dotenv
+tqdm
+typer
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+xgboost
+streamlit
+autoviz
+sweetviz
+openpyxl==3.1.0
+pyyaml
+
+#-e .
